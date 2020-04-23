@@ -29,4 +29,8 @@ public class Sys extends RealmObject {
     public int getSunset() {
         return sunset;
     }
+
+    public int getY() {
+        return y;
+    }
 }
