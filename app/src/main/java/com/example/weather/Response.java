@@ -25,6 +25,7 @@ public class Response extends RealmObject {
     private String name;
     private int cod;
 
+
     public Cordinats getCoord() {
         return coord;
     }
