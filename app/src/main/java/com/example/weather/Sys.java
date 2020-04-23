@@ -8,6 +8,7 @@ public class Sys extends RealmObject {
     private String country;
     private int sunrise;
     private int sunset;
+    private int y;
 
     public int getType() {
         return type;
